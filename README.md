@@ -2,6 +2,11 @@
 sbt sample
 =======================
 
+What?
+---------
+
+A sample scala project which uses sbt as a build tool.
+
 Build
 ---------
 
@@ -14,12 +19,21 @@ Run
 
 "Hi" is printed in standard output
 
+Test (ScalaTest)
+---------
+
+    sbt test
+
 TODO
 ---------
-- add test using ScalaTest
 - build standalone jar
 - build Android lib or apk
 
+Refernces
+---------
+- ScalaTest  
+http://www.scalatest.org/
+
 ----
 Takashi Masuyama < mamewotoko@gmail.com >  
-http://www002.upp.so-net.ne.jp/mamewo/
+http://mamewo.ddo.jp/

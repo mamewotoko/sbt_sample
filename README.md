@@ -1,8 +1,7 @@
-=======================
 sbt sample
-=======================
+==========
 
-What?
+Overview
 ---------
 
 A sample scala project which uses sbt as a build tool.
@@ -10,19 +9,25 @@ A sample scala project which uses sbt as a build tool.
 Build
 ---------
 
-    sbt compile
+```
+  sbt compile
+```
 
 Run
 ---------
 
-    sbt run
+```
+  sbt run
+```
 
 "Hi" is printed in standard output
 
 Test (ScalaTest)
 ---------
 
-    sbt test
+```
+  sbt test
+```
 
 TODO
 ---------

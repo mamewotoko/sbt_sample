@@ -1,4 +1,4 @@
-sbt sample
+sbt sample [![Build Status](https://travis-ci.org/mamewotoko/sbt_sample.svg?branch=master)](https://travis-ci.org/mamewotoko/sbt_sample)
 ==========
 
 Overview
